@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Reihen-Mission">
+  <rect width="512" height="512" rx="112" fill="#123c43"/>
+  <rect x="62" y="88" width="184" height="184" rx="38" fill="#d7ead8"/>
+  <rect x="266" y="112" width="184" height="184" rx="38" fill="#ffc857"/>
+  <path d="m115 139 78 78m0-78-78 78" stroke="#123c43" stroke-width="26" stroke-linecap="round"/>
+  <g fill="#123c43"><circle cx="322" cy="172" r="15"/><circle cx="394" cy="172" r="15"/><circle cx="322" cy="238" r="15"/><circle cx="394" cy="238" r="15"/></g>
+  <rect x="93" y="327" width="326" height="89" rx="34" fill="#fffdf7"/>
+  <path d="M173 357h166m-166 30h166" stroke="#123c43" stroke-width="17" stroke-linecap="round"/>
+</svg>
